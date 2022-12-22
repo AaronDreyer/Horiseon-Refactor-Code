@@ -15,7 +15,7 @@ This is a website produced from a starter code that had several issues within th
 
 ## Link
 
-[Link to deployed website](file:///Users/aaronottaway/Desktop/Module-1-Challenge/Horiseon-Refactor-Code/index.html)
+[Link to deployed website]()
 
 Link to Horiseon Repository
 
