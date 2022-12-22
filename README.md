@@ -33,8 +33,10 @@ This application demonstrates how code can be improved for better accessibility 
 
 ## Credits
 
-N/A
+Credit for the total completion of assignment include: TAs,instructor, and students of the 2022 Georgia Tech Coding Bootcamp. Their assistance allowed for the assignment to meet all requirements.
 
 ## License
 
-Please refer to the LICENSE in the repo.
+License provided by Georgia Tech Bootcamp through predetermined Starter Code.
+
+External liscense not specified.
