@@ -25,6 +25,7 @@ The deployed website linked above was deployed using GitHub Pages.
 
 This application demonstrates how code can be improved for better accessibility through the changing of nonsemantic language to semantic language. Both the HTML skeleton and linked style.css can be reorganized for better usability and search engine optimization. All changes made from original starter code is identified through comments incorporated into the code. Users of this application will be able to tell which decisions were made and why.
 
+![](_Users_aaronottaway_Desktop_Module-1-Challenge_Horiseon-Refactor-Code_index.html.png)
 
 ## Credits
 
