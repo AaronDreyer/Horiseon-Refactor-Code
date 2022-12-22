@@ -4,22 +4,25 @@
 
 This is a website produced from a starter code that had several issues within that needed to be solved. The main objective was to make the website semantical, accessible, and functional while producing the same design website as before. This was done by editing the HTML/CSS, replacing nonsemantic language with semantical, fixing small bugs, and reorganizing the code.
 
-##Tasks completed
+## Tasks completed
 
-- Redundant classes were consolidated
-- HTML elements were replaced with semantic HTML elements
-- Alt text was added to images
-- Explanatory comments were provided in the HTML document
-- CSS was reorganized to follow a logical structure
--  Classes and elements were separated, then ordered alphabetically within each group
--  Comments added to delineate each separation
-- A descriptive title was added
+- New title added to better represent webpage
+- Redundant code consolidated
+- Semantic HTML added to code to make more accessible
+- Comments added to explain changes made to code
+- Descriptions added to alt atrributes to label images
+- CSS was consolidated to organize code for better accessibility
+
+## Link
+
+Link to deployed website[link](doc:file:///Users/aaronottaway/Desktop/Module-1-Challenge/Horiseon-Refactor-Code/index.html)
+Link to Horiseon Repository
 
 ## Installation
 
-Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
+Access application through github by deploying index.html, style.css, and README.md
 
-The deployed website linked above was deployed using GitHub Pages.
+Links above bring user to deployed page and github repository
 
 ## Usage
 
