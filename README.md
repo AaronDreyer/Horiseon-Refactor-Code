@@ -15,7 +15,8 @@ This is a website produced from a starter code that had several issues within th
 
 ## Link
 
-[Link to deployed website]()
+[Link to deployed website](./index.html)
+
 
 Link to Horiseon Repository
 
