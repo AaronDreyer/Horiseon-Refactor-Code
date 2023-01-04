@@ -17,7 +17,7 @@ This is a website produced from a starter code that had several issues within th
 
 [Link to deployed website](https://aarondreyer.github.io/Ultimate-Code-Fix/)
 
-[Link to Horiseon Repository](https://github.com/AaronDreyer/Horiseon-Refactor-Code)
+[Link to Repository](https://github.com/AaronDreyer/Ultimate-Code-Fix)
 
 ## Installation
 
